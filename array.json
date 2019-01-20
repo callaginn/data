@@ -1,0 +1,17 @@
+{
+	"device": {
+		"agent": "Your UserAgent String",
+		"hostIP": "127.0.0.1",
+		"referer": "https://example.com/fakepage.php",
+		"lang": "en"
+	},
+	"location": {
+		"city": "Beverly Hills",
+		"country": "United States",
+		"countryCode": "US",
+		"regionName": "California",
+		"region": "CA",
+		"status": "success",
+		"zip": "90210"
+	}
+}
